@@ -215,15 +215,15 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=CGIFM&theme=codeSTACKr&hide_border=true&background=0d1117&ring=2dd4bf&fire=f59e0b&currStreakLabel=fbbf24">
-    <img alt="CGIFM GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=CGIFM&theme=default&hide_border=true" width="72%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=CGIFM&theme=codeSTACKr&hide_border=true&background=0d1117&ring=2dd4bf&fire=f59e0b&currStreakLabel=fbbf24">
+    <img alt="CGIFM GitHub Streak" src="https://streak-stats.demolab.com?user=CGIFM&theme=default&hide_border=true" width="72%">
   </picture>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CGIFM/CGIFM/output/github-contribution-grid-snake-dark.svg">
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/CGIFM/CGIFM/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CGIFM&theme=github-compact&hide_border=true&bg_color=0d1117&color=2dd4bf&line=fbbf24&point=ffffff&area=true&area_color=0d9488">
+    <img alt="CGIFM contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CGIFM&theme=github&hide_border=true&area=true" width="100%">
   </picture>
 </div>
 
