@@ -222,8 +222,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CGIFM&theme=github-compact&hide_border=true&bg_color=0d1117&color=2dd4bf&line=fbbf24&point=ffffff&area=true&area_color=0d9488">
-    <img alt="CGIFM contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CGIFM&theme=github&hide_border=true&area=true" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CGIFM/CGIFM/output/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/CGIFM/CGIFM/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
